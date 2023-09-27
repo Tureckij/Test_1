@@ -20,6 +20,7 @@ public class Dog {
         while (x < MyDogs.length) {
             MyDogs[x].bark();
             x = x + 1;
+            x = x + 1;
         }
     }
 
